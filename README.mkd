@@ -1,0 +1,1 @@
+Many Ruby Quizes from "Ruby Quiz" book implemented in Python
